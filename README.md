@@ -15,7 +15,7 @@ Published: January 30, 2026
 
 ## Authors
 
-Kishor Deshmukh, 
+Kishor Deshmukh, Buddhadev Purohit,
 Rohit Srivastava et al.
 
 ## Link
